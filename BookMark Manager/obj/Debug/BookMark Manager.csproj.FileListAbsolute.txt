@@ -1,0 +1,21 @@
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\BookMark Manager.exe.config
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\BookMark Manager.exe
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\BookMark Manager.pdb
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.csproj.AssemblyReference.cache
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark_Manager.Form_main.resources
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark_Manager.Properties.Resources.resources
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.csproj.GenerateResource.cache
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.exe
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.pdb
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Debug\BookMark Manager.csproj.CopyComplete
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\EntityFramework.dll
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\EntityFramework.xml
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Debug\icon.ico
