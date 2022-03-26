@@ -172,7 +172,7 @@
             // 
             // Button_assign_cat
             // 
-            this.Button_assign_cat.Location = new System.Drawing.Point(504, 18);
+            this.Button_assign_cat.Location = new System.Drawing.Point(504, 17);
             this.Button_assign_cat.Name = "Button_assign_cat";
             this.Button_assign_cat.Size = new System.Drawing.Size(142, 22);
             this.Button_assign_cat.TabIndex = 8;

@@ -234,7 +234,6 @@ namespace BookMark_Manager
             string _q;
             if ((!checkBox_link.Checked == false) || (!checkBox_desc.Checked == false))
             {
-                MessageBox.Show(textBox_search.Text.Length.ToString(), "Critère de recherche trop court", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 if (textBox_search.Text.Length >= 3)
                 {
                     if ((checkBox_link.Checked == true) && (checkBox_desc.Checked == false))
