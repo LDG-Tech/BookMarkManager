@@ -335,6 +335,15 @@ namespace BookMark_Manager
                 dataGridView_links.Rows.Add(newRow);
             }
             sqlite_datareader.Close();
+           
+        }
+
+        private void dataGridView_links_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex == 1)
+            {
+                System.Diagnostics.Process.Start(dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString());
+            }
         }
     }
 }
