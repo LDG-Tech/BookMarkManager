@@ -1,24 +1,3 @@
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\icon.ico
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\BookMark Manager.exe.config
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\BookMark Manager.exe
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\BookMark Manager.pdb
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\EntityFramework.dll
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\EntityFramework.SqlServer.dll
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\System.Data.SQLite.dll
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\System.Data.SQLite.EF6.dll
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\System.Data.SQLite.Linq.dll
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\EntityFramework.xml
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\EntityFramework.SqlServer.xml
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\bin\Release\System.Data.SQLite.xml
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.csproj.AssemblyReference.cache
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark_Manager.Form_main.resources
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark_Manager.Properties.Resources.resources
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.csproj.GenerateResource.cache
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.csproj.CoreCompileInputs.cache
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.csproj.CopyComplete
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.exe
-C:\Users\Sebastien\SynologyDrive\Deathblade\VisualStudio Projects\BookMark Manager\BookMark Manager\BookMark Manager\obj\Release\BookMark Manager.pdb
 C:\Users\Sebastien\SynologyDrive\Deathblade\Visual Studio 2022\Projects\BookMark Manager\BookMark Manager\bin\Release\icon.ico
 C:\Users\Sebastien\SynologyDrive\Deathblade\Visual Studio 2022\Projects\BookMark Manager\BookMark Manager\bin\Release\BookMark Manager.exe.config
 C:\Users\Sebastien\SynologyDrive\Deathblade\Visual Studio 2022\Projects\BookMark Manager\BookMark Manager\bin\Release\BookMark Manager.exe

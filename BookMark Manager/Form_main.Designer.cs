@@ -86,7 +86,7 @@
             this.dataGridView_links.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView_links.Size = new System.Drawing.Size(843, 369);
             this.dataGridView_links.TabIndex = 0;
-            this.dataGridView_links.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_links_CellContentClick);
+            this.dataGridView_links.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridView_links_CellContentClick);
             // 
             // col_link_id
             // 

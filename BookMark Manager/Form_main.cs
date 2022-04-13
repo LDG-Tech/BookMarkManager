@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data.SQLite;
 using System.IO;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -335,14 +336,42 @@ namespace BookMark_Manager
                 dataGridView_links.Rows.Add(newRow);
             }
             sqlite_datareader.Close();
-           
+
         }
 
-        private void dataGridView_links_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private bool IsValidEmail(string email)
+        {
+            string pattern = @"^(?!\.)(""([^""\r\\]|\\[""\r\\])*""|" + @"([-a-z0-9!#$%&'*+/=?^_`{|}~]|(?<!\.)\.)*)(?<!\.)" + @"@[a-z0-9][\w\.-]*[a-z0-9]\.[a-z][a-z\.]*[a-z]$";
+            var regex = new Regex(pattern, RegexOptions.IgnoreCase);
+            return regex.IsMatch(email);
+        }
+
+        private void DataGridView_links_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.ColumnIndex == 1)
             {
-                System.Diagnostics.Process.Start(dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString());
+                if (Uri.IsWellFormedUriString(dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString(), UriKind.Absolute))
+                {
+                    try
+                    {
+                        System.Diagnostics.Process.Start(dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString());
+                    }
+                    catch (Exception ex)
+                    {
+                        //
+                    }
+                }
+                else if (IsValidEmail(dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString()))
+                {
+                    try
+                    {
+                        System.Diagnostics.Process.Start("mailto:" + dataGridView_links.Rows[e.RowIndex].Cells[1].Value.ToString());
+                    }
+                    catch (Exception ex)
+                    {
+                        //
+                    }
+                }
             }
         }
     }
